@@ -37,3 +37,8 @@ Aが勝つと6.0倍
 Bが勝つと合計の6.4倍
 Cが勝つと合計の7.3倍
 →AとCで最大2倍の振れ幅になる
+
+# license
+Copyright (c) 2022 Dozi0116
+Released under the MIT license
+https://licenses.opensource.jp/MIT/MIT.html
