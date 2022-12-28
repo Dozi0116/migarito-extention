@@ -1,0 +1,20 @@
+{
+  "name": "Migarito",
+  "description": "anti torigami tool",
+  "version": "1.0.1",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["https://race.netkeiba.com/race/shutuba.html"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+E",
+        "mac": "MacCtrl+Shift+E"
+      },
+      "description": "open configure window"
+    }
+  }
+}
